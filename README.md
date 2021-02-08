@@ -2,6 +2,6 @@
 
 ### husle everyday
 
-- 🔭 I’m currently working on Africanwave·非浪
+- 🔭 I’m currently working on Famous Sword · 名剑
 - 🌱 I’m currently learning Rust
 - 😈 Find me on http://xiaker.org
